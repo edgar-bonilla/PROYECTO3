@@ -1,0 +1,13 @@
+[
+    {
+      "id": 1,
+      "descripcion": "La Batalla de los Dientes de Oro fue la primera gran confrontación entre la Casa Lannister y la Casa Stark durante la Guerra de los Cinco Reyes. Jaime Lannister lideró el ejército de los Lannister para asegurar una victoria estratégica.",
+      "batalla_relacionada": 1
+    },
+    {
+      "id": 2,
+      "descripcion": "La emboscada en el Vado del Bufón fue un ataque sorpresa dirigido por Gregor Clegane contra las fuerzas de la Casa Baratheon, donde Beric Dondarrion fue enviado para interceptar a las tropas Lannister.",
+      "batalla_relacionada": 2
+    }
+  ]
+  

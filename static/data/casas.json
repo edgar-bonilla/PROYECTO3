@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "nombre": "Casa Lannister",
+      "sigil": "A golden lion on a crimson background",
+      "lema": "Hear Me Roar!",
+      "region": "The Westerlands"
+    },
+    {
+      "id": 2,
+      "nombre": "Casa Stark",
+      "sigil": "A grey direwolf on a white background",
+      "lema": "Winter is Coming",
+      "region": "The North"
+    },
+    {
+      "id": 3,
+      "nombre": "Casa Baratheon",
+      "sigil": "A crowned black stag on a golden background",
+      "lema": "Ours is the Fury",
+      "region": "The Stormlands"
+    }
+  ]
+  

@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@nuxt/content": "^2.13.4",
+    "bootstrap": "^5.3.3",
+    "bootstrap-vue": "^2.23.1",
+    "nuxt": "^3.14.1592"
+  }
+}

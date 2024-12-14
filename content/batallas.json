@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "nombre": "Batalla de los Bastardos",
+      "fecha": "299-06-01",
+      "resultado": "Victoria para Jon Snow y Sansa Stark",
+      "tipos_de_batalla": "terrestre",
+      "descripcion": "Una de las batallas más sangrientas, en la que Jon Snow derrota a los Bolton.",
+      "imagen": "/imagenes/bastardo_batle.webp",
+      "lugar": "Invernalia",
+      "comandantes": [1, 6],
+      "region_id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Batalla de la Larga Noche",
+      "fecha": "299-10-15",
+      "resultado": "Victoria para los Stark y aliados",
+      "tipos_de_batalla": "terrestre",
+      "descripcion": "Las fuerzas de Jon Snow y Daenerys Targaryen luchan contra los Caminantes Blancos en una batalla decisiva.",
+      "imagen": "/imagenes/batalla Winterfell.avif",
+      "lugar": "Invernalia",
+      "comandantes": [1, 2],
+      "region_id": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Batalla del Aguasnegras",
+      "fecha": "299-05-01",
+      "resultado": "Victoria para la alianza Lannister-Tyrell",
+      "tipos_de_batalla": "terrestre y naval",
+      "descripcion": "Stannis intenta tomar Desembarco del Rey, pero es derrotado por los Lannister con la ayuda de Tyrion y el fuego valyrio.",
+      "imagen": "/imagenes/Tyrion_en_la_Batle.webp",
+      "lugar": "Bahía de Blackwater, Desembarco del Rey",
+      "comandantes": [4],
+      "region_id": 7
+    },
+    {
+      "id": 4,
+      "nombre": "Batalla de Harrenhal",
+      "fecha": "299-07-12",
+      "resultado": "Victoria para los Lannister",
+      "tipos_de_batalla": "terrestre",
+      "descripcion": "La toma estratégica de Harrenhal por parte de los Lannister, lo que les da control de un punto clave en el río Tridente.",
+      "imagen": "/imagenes/Batalla_harrenhal.webp",
+      "lugar": "Harrenhal",
+      "comandantes": [3],
+      "region_id": 6
+    },
+    {
+      "id": 5,
+      "nombre": "Batalla del Forca Roja",
+      "fecha": "299-09-03",
+      "resultado": "Victoria para la alianza Stark-Tully",
+      "tipos_de_batalla": "terrestre",
+      "descripcion": "Robb Stark embosca a los Lannister en el Forca Roja, logrando una importante victoria en la Guerra de los Cinco Reyes.",
+      "imagen": "/imagenes/forsa_roja_batle.webp",
+      "lugar": "Forca Roja",
+      "comandantes": [5],
+      "region_id": 6
+    },
+    {
+      "id": 6,
+      "nombre": "Batalla de la Puerta de la Luna",
+      "fecha": "299-04-15",
+      "resultado": "Victoria para los Caballeros del Valle",
+      "tipos_de_batalla": "terrestre",
+      "descripcion": "Los Caballeros del Valle, liderados por Petyr Baelish y Sansa Stark, aseguran el control del Valle al derrotar a los señores rebeldes en la Puerta de la Luna.",
+      "imagen": "/imagenes/Gates_of_the_Moon_batle.webp",
+      "lugar": "Puerta de la Luna",
+      "comandantes": [6],
+      "region_id": 2
+    }
+  ]
+}

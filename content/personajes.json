@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "nombre": "Jon Snow",
+      "titulo": "Lord Comandante",
+      "familia": "Stark",
+      "aliados": ["Samwell Tarly", "Tormund Giantsbane"],
+      "enemigos": ["Ramsay Bolton"],
+      "batallas_id": [1, 4],
+      "imagen": "/imagenes/jon-snow.jpeg",
+      "historia": "Jon Snow es hijo bastardo de Eddard Stark y líder de la Guardia de la Noche.",
+      "casa_id": 1,
+      "es_comandante": true
+    },
+    {
+      "id": 2,
+      "nombre": "Daenerys Targaryen",
+      "titulo": "Madre de Dragones",
+      "familia": "Targaryen",
+      "aliados": ["Tyrion Lannister", "Jorah Mormont"],
+      "enemigos": ["Cersei Lannister", "Euron Greyjoy"],
+      "batallas_id": [3, 4],
+      "imagen": "/imagenes/Daenerys Targaryen.jpg",
+      "historia": "Daenerys Targaryen, la última superviviente de la dinastía Targaryen, lucha para recuperar el trono de hierro, enfrentándose a diversos enemigos a lo largo de su viaje.",
+      "casa_id": 2,
+      "es_comandante": true
+    },
+    {
+      "id": 3,
+      "nombre": "Arya Stark",
+      "titulo": "Ninguno",
+      "familia": "Stark",
+      "aliados": ["Gendry", "Sandor Clegane"],
+      "enemigos": ["Joffrey Baratheon"],
+      "batallas_id": [4],
+      "imagen": "/imagenes/Arya Stark.jpg",
+      "historia": "Arya Stark es la hija menor de Eddard Stark, conocida por su habilidad con la espada y sus conocimientos de los Hombres Sin Rostro.",
+      "casa_id": 1,
+      "es_comandante": false
+    },
+    {
+      "id": 4,
+      "nombre": "Tyrion Lannister",
+      "titulo": "El Enano",
+      "familia": "Lannister",
+      "aliados": ["Daenerys Targaryen", "Varys"],
+      "enemigos": ["Cersei Lannister"],
+      "batallas_id": [3],
+      "imagen": "/imagenes/Tyrion Lannister.webp",
+      "historia": "Tyrion es el hermano enano de Cersei y Jaime Lannister, conocido por su astucia y habilidad política.",
+      "casa_id": 3,
+      "es_comandante": false
+    },
+    {
+      "id": 5,
+      "nombre": "Robb Stark",
+      "titulo": "Rey en el Norte",
+      "familia": "Stark",
+      "aliados": ["Theon Greyjoy", "Brynden Tully"],
+      "enemigos": ["Jaime Lannister"],
+      "batallas_id": [5],
+      "imagen": "/imagenes/Robb Stark.jpg",
+      "historia": "Robb Stark fue el hijo mayor de Eddard Stark, conocido por su liderazgo y valentía.",
+      "casa_id": 1,
+      "es_comandante": true
+    },
+    {
+      "id": 6,
+      "nombre": "Petyr Baelish",
+      "titulo": "Meñique",
+      "familia": "Ninguna",
+      "aliados": ["Sansa Stark", "Varys"],
+      "enemigos": ["Lysa Arryn"],
+      "batallas_id": [6],
+      "imagen": "/imagenes/Petyr Baelish.webp",
+      "historia": "Petyr Baelish es un astuto hombre de poder que manipula a otros para obtener ventajas.",
+      "casa_id": 2,
+      "es_comandante": false
+    }
+  ]
+}

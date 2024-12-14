@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "nombre": "Stark",
+      "lema": "El Invierno Viene",
+      "historia": "La Casa Stark es una familia noble del Norte, conocida por su honor y lealtad.",
+      "imagen": "/imagenes/Casa_Stark_escudo.webp",
+      "region_id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Arryn",
+      "lema": "Nosotros Vemos",
+      "historia": "La Casa Arryn gobierna el Valle y es conocida por su independencia y fortaleza.",
+      "imagen": "/imagenes/Casa_Arryn.webp",
+      "region_id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Targaryen",
+      "lema": "Fuego y Sangre",
+      "historia": "La Casa Targaryen fue una familia de antiguos reyes de Westeros, conocidos por sus dragones.",
+      "imagen": "/imagenes/url_imagen_targaryen.webp",
+      "region_id": 3
+    },
+    {
+      "id": 4,
+      "nombre": "Greyjoy",
+      "lema": "Nosotros No Sembramos",
+      "historia": "La Casa Greyjoy es conocida por su habilidad en la navegación y su cultura centrada en el mar.",
+      "imagen": "/imagenes/Greyjoy.png",
+      "region_id": 4
+    },
+    {
+      "id": 5,
+      "nombre": "Baratheon",
+      "lema": "La Tormenta Crece",
+      "historia": "La Casa Baratheon es conocida por su fortaleza y su control sobre Storm’s End.",
+      "imagen": "/imagenes/Casa_Baratheon.webp",
+      "region_id": 5
+    },
+    {
+      "id": 6,
+      "nombre": "Martell",
+      "lema": "Nunca Digas Muerto",
+      "historia": "La Casa Martell gobierna Dorne, una región cálida y aislada de Westeros.",
+      "imagen": "/imagenes/Casa_Martell.webp",
+      "region_id": 3
+    }
+  ]
+}

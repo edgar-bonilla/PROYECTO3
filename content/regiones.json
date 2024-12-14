@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "nombre": "El Norte",
+      "ubicacion": "Invernalia",
+      "descripcion": "El Norte es la región más grande y fría de Westeros, hogar de la Casa Stark.",
+      "imagen": "/imagenes/el norte.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "El Valle",
+      "ubicacion": "El Valle de Arryn",
+      "descripcion": "El Valle es una región montañosa conocida por su fortaleza y su aislamiento.",
+      "imagen": "/imagenes/Valle de Arryn.jpg"
+
+    },
+    {
+      "id": 3,
+      "nombre": "Dorne",
+      "ubicacion": "Palacio de los Martell",
+      "descripcion": "Dorne es una región calurosa y árida, conocida por sus costumbres y por la Casa Martell.",
+      "imagen": "/imagenes/Valle del dorne.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Las Islas del Hierro",
+      "ubicacion": "Pyke",
+      "descripcion": "Las Islas del Hierro son una serie de islas gobernadas por los Greyjoy, con una cultura guerrera y marítima.",
+      "imagen": "/imagenes/Hisla de hierro.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Las Tormentas",
+      "ubicacion": "Storm’s End",
+      "descripcion": "Las Tormentas es una región costera conocida por su clima violento y su control por parte de la Casa Baratheon.",
+      "imagen": "/imagenes/tierra de las tormentas.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Las Tierras de los Ríos",
+      "ubicacion": "Riverrun",
+      "descripcion": "Las Tierras de los Ríos son una región central y fértil, gobernada por la Casa Tully.",
+      "imagen": "/imagenes/tierra de los rios.webp"
+    },
+    {
+      "id": 7,
+      "nombre": "Las Tierras de la Corona",
+      "ubicacion": "Desembarco del Rey",
+      "descripcion": "Las Tierras de la Corona rodean Desembarco del Rey, la capital de los Siete Reinos, y están gobernadas directamente por el trono de hierro.",
+      "imagen": "/imagenes/tierra de las coronas.jpg"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "descripcion": "La Batalla de los Bastardos marcó el regreso de Jon Snow y Sansa Stark al poder en el Norte. Fue una de las batallas más sangrientas, donde Jon Snow derrota a los Bolton y asegura la independencia del Norte.",
+      "batalla_id": 1,
+      "personaje_id": 1
+    },
+    {
+      "id": 2,
+      "descripcion": "La Batalla de la Larga Noche fue una confrontación crucial contra los Caminantes Blancos. Jon Snow y Daenerys Targaryen lideraron a las fuerzas del Norte en una victoria decisiva para salvar a la humanidad.",
+      "batalla_id": 2,
+      "personaje_id": 1
+    },
+    {
+      "id": 3,
+      "descripcion": "En la Batalla del Aguasnegras, Stannis Baratheon intentó tomar Desembarco del Rey, pero fue derrotado por las fuerzas de la alianza Lannister-Tyrell, con la intervención clave del fuego valyrio, utilizado por Tyrion Lannister.",
+      "batalla_id": 3,
+      "personaje_id": 4
+    },
+    {
+      "id": 4,
+      "descripcion": "La Batalla de Harrenhal fue una victoria para los Lannister, quienes tomaron el control de Harrenhal, un lugar clave en el río Tridente, consolidando su poder en la región.",
+      "batalla_id": 4,
+      "personaje_id": 3
+    },
+    {
+      "id": 5,
+      "descripcion": "En la Batalla del Forca Roja, Robb Stark emboscó a los Lannister, logrando una victoria decisiva en la Guerra de los Cinco Reyes y reafirmando su poder en el Norte.",
+      "batalla_id": 5,
+      "personaje_id": 5
+    },
+    {
+      "id": 6,
+      "descripcion": "La Batalla de la Puerta de la Luna fue una victoria importante para los Caballeros del Valle, liderados por Petyr Baelish y Sansa Stark, quienes derrotaron a los señores rebeldes, asegurando el control del Valle.",
+      "batalla_id": 6,
+      "personaje_id": 6
+    }
+  ]
+}

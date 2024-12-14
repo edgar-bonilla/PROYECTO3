@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "nombre": "The Westerlands",
+      "batallas_ocurridas": [1],
+      "casas_asociadas": ["Casa Lannister"]
+    },
+    {
+      "id": 2,
+      "nombre": "The North",
+      "batallas_ocurridas": [3],
+      "casas_asociadas": ["Casa Stark"]
+    },
+    {
+      "id": 3,
+      "nombre": "The Riverlands",
+      "batallas_ocurridas": [2],
+      "casas_asociadas": ["Casa Tully", "Casa Lannister"]
+    }
+  ]
+  

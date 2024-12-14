@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "nombre": "Battle of the Golden Tooth",
+      "año": 298,
+      "numero_batalla": 1,
+      "atacante_king": "Joffrey/Tommen Baratheon",
+      "defensor_king": "Robb Stark",
+      "atacantes": ["Casa Lannister"],
+      "defensores": ["Casa Tully"],
+      "resultado": "win",
+      "tipo_batalla": "pitched battle",
+      "muertes_importantes": true,
+      "capturas_importantes": false,
+      "tamaño_ejercito_atacante": 15000,
+      "tamaño_ejercito_defensor": 4000,
+      "comandantes_atacantes": ["Jaime Lannister"],
+      "comandantes_defensores": ["Clement Piper", "Vance"],
+      "verano": true,
+      "localizacion": "Golden Tooth",
+      "region": "The Westerlands",
+      "nota": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Battle at the Mummer's Ford",
+      "año": 298,
+      "numero_batalla": 2,
+      "atacante_king": "Joffrey/Tommen Baratheon",
+      "defensor_king": "Robb Stark",
+      "atacantes": ["Casa Lannister"],
+      "defensores": ["Casa Baratheon"],
+      "resultado": "win",
+      "tipo_batalla": "ambush",
+      "muertes_importantes": true,
+      "capturas_importantes": false,
+      "tamaño_ejercito_atacante": null,
+      "tamaño_ejercito_defensor": 120,
+      "comandantes_atacantes": ["Gregor Clegane"],
+      "comandantes_defensores": ["Beric Dondarrion"],
+      "verano": true,
+      "localizacion": "Mummer's Ford",
+      "region": "The Riverlands",
+      "nota": ""
+    }
+  ]
+  
